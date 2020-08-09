@@ -18,3 +18,5 @@ Push yourself to code daily till 100 challenges, and feel the difference!
 | ------------ | ---------- | ----- | -----------: |
 | 1 | [Count characters in a sentence](challenge_1/main.py) | **Basic** |Input/Output|
 | 2 | [Miles per hour to metre per second](challenge_2/main.py) | **basic** |basic math |
+| 3 | [Temperature conversion](challenge_3/main.py) | **basic** |basic math |
+| 4 | [Triangle rule app](challenge_4/main.py) | **basic** |basic math |
