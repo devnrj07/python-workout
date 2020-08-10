@@ -20,3 +20,6 @@ Push yourself to code daily till 100 challenges, and feel the difference!
 | 2 | [Miles per hour to metre per second](challenge_2/main.py) | **basic** |basic math |
 | 3 | [Temperature conversion](challenge_3/main.py) | **basic** |basic math |
 | 4 | [Triangle rule app](challenge_4/main.py) | **basic** |basic math |
+| 5 | [Multiplication and Exponent Table app](challenge_5/main.py) | **basic** |basic math |
+| 6 | [Grade sorter app](challenge_6/main.py) | **basic** |list |
+
