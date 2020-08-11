@@ -22,4 +22,8 @@ Push yourself to code daily till 100 challenges, and feel the difference!
 | 4 | [Triangle rule app](challenge_4/main.py) | **basic** |basic math |
 | 5 | [Multiplication and Exponent Table app](challenge_5/main.py) | **basic** |basic math |
 | 6 | [Grade sorter app](challenge_6/main.py) | **basic** |list |
+| 7 | [Four list types app](challenge_7/main.py) | **basic** |list |
+| 8 | [Grocery list app](challenge_8/main.py) | **basic** |list |
+| 9 | [BasketBall Roster app](challenge_9/main.py) | **basic** |list |
+| 10 | [Favourite Teachers list app](challenge_10/main.py) | **basic** |list |
 
