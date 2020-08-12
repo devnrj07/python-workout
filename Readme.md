@@ -26,4 +26,5 @@ Push yourself to code daily till 100 challenges, and feel the difference!
 | 8 | [Grocery list app](challenge_8/main.py) | **basic** |list |
 | 9 | [BasketBall Roster app](challenge_9/main.py) | **basic** |list |
 | 10 | [Favourite Teachers list app](challenge_10/main.py) | **basic** |list |
+| 11 | [Binary & Hexadecimal converter app](challenge_11/main.py) | **basic** |list |
 
