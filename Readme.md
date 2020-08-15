@@ -36,3 +36,4 @@ Push yourself to code daily till 100 challenges, and feel the difference!
 | 18 | [Voter Registration app](challenge_18/main.py) | **basic** |conditional|
 | 19 | [Guess My Number app](challenge_19/main.py) | **basic** |conditional|
 | 20 | [Rock, paper and scissors app](challenge_20/main.py) | **basic** |conditional|
+| 21 | [Thesaurus app](challenge_21/main.py) | **basic** |dictionary|
