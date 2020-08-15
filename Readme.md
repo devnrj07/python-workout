@@ -28,4 +28,11 @@ Push yourself to code daily till 100 challenges, and feel the difference!
 | 10 | [Favourite Teachers list app](challenge_10/main.py) | **basic** |list |
 | 11 | [Binary & Hexadecimal converter app](challenge_11/main.py) | **basic** |loops |
 | 12 | [Quadratic Equation Solver app](challenge_12/main.py) | **basic** |loops|
-
+| 13 | [Factorial app](challenge_13/main.py) | **basic** |loops|
+| 14 | [Fibonacci Calculator app](challenge_14/main.py) | **basic** |loops|
+| 15 | [GPA Calculator app](challenge_15/main.py) | **basic** |loops|
+| 16 | [Shipping Items app](challenge_16/main.py) | **basic** |conditional|
+| 17 | [Coin Toss app](challenge_17/main.py) | **basic** |conditional|
+| 18 | [Voter Registration app](challenge_18/main.py) | **basic** |conditional|
+| 19 | [Guess My Number app](challenge_19/main.py) | **basic** |conditional|
+| 20 | [Rock, paper and scissors app](challenge_20/main.py) | **basic** |conditional|
