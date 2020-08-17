@@ -40,3 +40,4 @@ Push yourself to code daily till 100 challenges, and feel the difference!
 | 22 | [Database app](challenge_22/main.py) | **basic** |dictionary, conditionals|
 | 23 | [Voting app](challenge_23/main.py) | **basic** |dictionary, conditionals|
 | 24 | [Frequency Analysis app](challenge_24/main.py) | **basic** |dictionary, conditionals, Counter dic|
+| 25 | [Encode/Decode message app](challenge_25/main.py) | **basic** |dictionary, conditionals, Counter dic|
