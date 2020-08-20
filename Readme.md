@@ -46,5 +46,5 @@ Push yourself to code daily till 100 challenges, and feel the difference!
 | 28 | [Prime Number app](challenge_28/main.py) | **basic** |dictionary, conditionals, Counter dic|
 | 29 | [Guess my word app](challenge_29/main.py) | **basic** |dictionary, conditionals, while loops|
 | 30 | [Power Ball app](challenge_30/main.py) | **basic** |dictionary, conditionals, powerball|
-
+| 31 | [Power Ball app](challenge_31/main.py) | **basic** |functions, list|
 
