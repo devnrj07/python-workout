@@ -47,4 +47,7 @@ Push yourself to code daily till 100 challenges, and feel the difference!
 | 29 | [Guess my word app](challenge_29/main.py) | **basic** |dictionary, conditionals, while loops|
 | 30 | [Power Ball app](challenge_30/main.py) | **basic** |dictionary, conditionals, powerball|
 | 31 | [Power Ball app](challenge_31/main.py) | **basic** |functions, list|
+| 32 | [The Python calculator app](challenge_32/main.py) | **basic** |functions, list, dict|
+| 33 | [Bank Deposit and withdrawl app](challenge_33/main.py) | **basic** |functions, loop, list, dict|
+| 34 | [Python Tic Tac Toe](challenge_34/main.py) | **basic** |functions, loop, list, dict|  
 
