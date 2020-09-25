@@ -1,0 +1,7 @@
+name : practice
+channels :
+    - conda-forge
+dependencies :
+    - pip=20.2.3
+    - pip :
+        - matplotlib==3.3.2
