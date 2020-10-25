@@ -52,3 +52,4 @@ Push yourself to code daily till 100 challenges, and feel the difference!
 | 34 | [Python Tic Tac Toe](challenge_34/main.py) | **basic** |functions, loop, list, dict|  
 | 35 | [Loan Calculator app](challenge_35/main.py) | **basic** |matplotlib, loop, list, dict|  
 | 36 | [Pythonagachi Simulator app](challenge_36/main.py) | **basic** |class, loop, list, dict/switch|  
+| 37 | [Casino Black Jack app](challenge_37/main.py) | **basic** |class, loop, list, dict/switch|  
